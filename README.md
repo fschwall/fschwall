@@ -14,7 +14,7 @@
 
 <h2>👨🏻‍💻 &nbsp;I love to code with</h2>
 <p>
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next-45b8d8?style=flat-square&logo=next&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next-45b8d8?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0AB6D3?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
