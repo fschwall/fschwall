@@ -6,7 +6,7 @@
   I am Software Developer based in <b>Newcastle, UK</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I am on track for learning more about <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#45b8d8" href="https://vuex.vuejs.org/" target="_blank"><u>Vuex</u></a>, <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://adonisjs.com/" target="_blank"><u>AdonisJS</u></a>.\
+  🌱 &nbsp;I am on track for learning more about  <a style="color:#45b8d8" href="https://nextjs.org/" target="_blank"><u>Next.js</u></a>, <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://adonisjs.com/" target="_blank"><u>AdonisJS</u></a>, <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#45b8d8" href="https://vuex.vuejs.org/" target="_blank"><u>Vuex</u></a>.\
   🚧 &nbsp;I am currently working on a new secret project ... 👀.\
   💬 &nbsp;Feel free to reach out to me.
 </p>
