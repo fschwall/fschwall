@@ -36,7 +36,7 @@
   <img alt="TRPC" src="https://img.shields.io/badge/-TRPC-F7B93E?style=flat-square&logo=TRPC&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-ffca28?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=aws&logoColor=white" />
 </p>
